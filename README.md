@@ -1,1 +1,13 @@
 # Swift_IOS
+
+<h2>라이브러리</h2>
+<h6>
+Alamofire : 네트워킹 라이브러리
+SwiftyJSON : JSON 라이브러리
+ObjectMapper : 모델을 JSON과 손쉽게 상호 변환
+Kingfisher : 웹 이미지 쉽게 가져옴, 캐싱 알아서
+RealmSwift : 렘 DB
+Then : 클로저를 사용하여 인스턴스를 생성한 뒤 원하는 처리 해줌  
+<br>
+
+</h6>
