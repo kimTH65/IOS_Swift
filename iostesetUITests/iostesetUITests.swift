@@ -1,13 +1,13 @@
 //
-//  Tests_macOS.swift
-//  Tests macOS
+//  iostesetUITests.swift
+//  iostesetUITests
 //
 //  Created by 金 泰勳 on 2022/06/29.
 //
 
 import XCTest
 
-class Tests_macOS: XCTestCase {
+class iostesetUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
