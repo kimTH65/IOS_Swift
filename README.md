@@ -9,6 +9,6 @@ Kingfisher : 웹 이미지 쉽게 가져옴, 캐싱 알아서<br>
 RealmSwift : 렘 DB<br>
 Then : 클로저를 사용하여 인스턴스를 생성한 뒤 원하는 처리 해줌  
 </h6>
-UIKit :
-Foundation :
+UIKit :　<br>
+Foundation :　<br>
 @escaping : 함수가 반환된 후 사용
