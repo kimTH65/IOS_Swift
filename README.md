@@ -11,4 +11,5 @@ Then : 클로저를 사용하여 인스턴스를 생성한 뒤 원하는 처리 
 </h6>
 UIKit :　<br>
 Foundation :　<br>
-@escaping : 함수가 반환된 후 사용
+@escaping : 함수가 반환된 후 사용 <br>
+delegate : 
