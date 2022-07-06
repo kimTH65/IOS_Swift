@@ -8,9 +8,15 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State var toDoString = ""
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Text("Todo List")
+            .font(.title.bold())
+        HStack{
+            Image(systemName: "square.and.pencil")
+            TextField("List", text: $toDoString)
+        }.textFieldStyle(DefaultTextFieldStyle())
+            
     }
 }
 
