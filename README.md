@@ -15,9 +15,8 @@ Foundation :　코코아 터치 프레임워크에 포함됨, String,Int,Double 
 delegate : <br>
 URLSession : <br>
 StoryBoard : <br>
-TableView, TableCell 
-di, Df
-CocoaPods
+TableView, TableCell , 여러 TableCell 사용방법 <br>
+di, Df , CocoaPods 라이브러리 <br> 
 SwiftUI VS UIKit
  </h6>
  
