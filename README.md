@@ -4,9 +4,9 @@
 UIKit,TableView/Cell 사용
 </h6>
 <br><br>
-<h2>O</h2>
+<h2>Experience</h2>
 <h6>
-delegate, URLSession, StoryBoard, TableView, cocoapods ...
+delegate, URLSession, StoryBoard, TableView, cocoapods, Unit Test ...
 </h6>
 <br><br>
 <h2>라이브러리</h2>
