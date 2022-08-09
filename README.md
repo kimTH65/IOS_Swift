@@ -15,7 +15,7 @@ Alamofire : 네트워킹 라이브러리<br>
 SwiftyJSON : JSON 라이브러리<br>
 ObjectMapper : 모델을 JSON과 손쉽게 상호 변환<br>
 Kingfisher : 웹 이미지 쉽게 가져옴, 캐싱 알아서<br>
-RealmSwift : 렘 DB
+RealmSwift : 렘 DB 
 </h6>
 <br><br>
 <h2>메모</h2>
