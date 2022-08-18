@@ -28,7 +28,8 @@ Foundation :　코코아 터치 프레임워크에 포함됨, String,Int,Double 
 <br><br>
 <h2>SwiftUI VS UIKit </h2>
 <h6>
-UIKit
+ 
+UIKit사용
 SwiftUI는 선언형 UIKit은 명령형 <br>
 SwiftUI는 인터페이스의 상태를 추적할 필요 없음 <br>
 SwiftUI의 경우 StoryBoard를 사용하지 않음 
