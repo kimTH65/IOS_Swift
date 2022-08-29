@@ -7,8 +7,7 @@ UIKit,TableView/Cell　
 <h2>Experience</h2>
 <h6>
 Login, Table,
-delegate, URLSession, StoryBoard, TableView, cocoapods, Unit Test, Test ...  
-
+delegate, URLSession, StoryBoard, TableView, cocoapods, Unit Test, Test ...
 </h6>
 <br><br>
 <h2>라이브러리</h2>
