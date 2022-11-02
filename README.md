@@ -50,7 +50,7 @@ arch -x86_64 pod install
 
 <h2>AppDelegate </h2> 
 <h6>
-entry point역활<br>
+entry point역활<br><br>
 life-cycle관리역활
 </h6>
 <br><br>
