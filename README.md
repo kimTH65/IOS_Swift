@@ -35,4 +35,10 @@ SwiftUI는 선언형 UIKit은 명령형 <br>
 SwiftUI는 인터페이스의 상태를 추적할 필요 없음 <br>
 SwiftUI의 경우 StoryBoard를 사용하지 않음 
 </h6>
- 
+<br><br>
+<h2>M1 pod install </h2> 
+<h6>
+sudo arch -x86_64 gem install cocoapods
+sudo arch -x86_64 gem install ffi
+arch -x86_64 pod install
+</h6>
