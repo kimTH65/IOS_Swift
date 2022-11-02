@@ -38,7 +38,7 @@ SwiftUI의 경우 StoryBoard를 사용하지 않음
 <br><br>
 <h2>M1 pod install </h2> 
 <h6>
-sudo arch -x86_64 gem install cocoapods
-sudo arch -x86_64 gem install ffi
+sudo arch -x86_64 gem install cocoapods<br>
+sudo arch -x86_64 gem install ffi<br>
 arch -x86_64 pod install
 </h6>
