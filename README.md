@@ -46,3 +46,11 @@ sudo arch -x86_64 gem install cocoapods<br>
 sudo arch -x86_64 gem install ffi<br>
 arch -x86_64 pod install
 </h6>
+<br><br>
+
+<h2>AppDelegate </h2> 
+<h6>
+entry point역활<br>
+life-cycle관리역활
+</h6>
+<br><br>
