@@ -54,3 +54,8 @@ entry point역활<br><br>
 life-cycle관리역활
 </h6>
 <br><br>
+
+<h2>scenedelegate </h2> 
+<h6>
+</h6>
+<br><br>
