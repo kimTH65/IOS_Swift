@@ -60,13 +60,12 @@ life-cycle관리역활
 </h6>
 <br><br>
 
-<h2>앱스토어 배포 방법 </h2> 
+<h2>앱스토어</h2> 
 <h6>
 애플의 하드웨어는 애플에서 허가한 소프트웨어만 사용가능하기 때문에 인증이 필요<br>
-	앱스토어에서 배포를 하기 위해서는 아래의 3가지 필요<br>
-	- Certificate Signing Request (개발자 인증)<br>
-	- iOS Distribution(배포 인증서) - 인증기간 1년, 갱신 필요<br>
+	앱스토어에서 배포를 하기 위해서는 아래의 3가지 필요<br><br>
+	- Certificate Signing Request (개발자 인증)<br><br>
+	- iOS Distribution(배포 인증서) - 인증기간 1년, 갱신 필요<br><br>
 	- Provisioning Profile(프로비저닝 프로파일) - 갱신 필요<br>
-
 </h6>
 <br><br>
