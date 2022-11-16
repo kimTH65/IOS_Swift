@@ -67,6 +67,6 @@ life-cycle관리역활
 	- Certificate Signing Request (개발자 인증) - 개발자 인증 요청을 위한 자료 생성<br><br>
 	- iOS Distribution(배포 인증서) - 인증기간 1년, 갱신 필요<br><br>
 	- Provisioning Profile(프로비저닝 프로파일) - 디바이스에 앱을 설치하기 전 신뢰할 수 있는 개발자가 만든 건지 확인을 위한 파일, 갱신 필요<br><br>
-최신버전만 심사신청 가능
+앱스토어 심사신청은 최신버전만 가능
 </h6>
 <br><br>
