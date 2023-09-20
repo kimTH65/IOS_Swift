@@ -57,7 +57,7 @@ life-cycle관리역활
 
 <h2>SceneDelegate </h2> 
 <h6>
-UI 상태에 따르 이벤트처리를 위한 객체
+UI 상태에 따른 이벤트처리를 위한 객체
 </h6>
 <br><br>
 
