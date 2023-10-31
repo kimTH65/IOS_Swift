@@ -1,4 +1,7 @@
-# Swift_IOS
+# IOS_Swift
+<h2>실무 경험</h2>
+기간 : 2022/7 ~ 2022/12 <br>
+경험 : Login, Table, delegate, URLSession, StoryBoard, TableView, cocoapods, Unit Test, Test
 <h2>TodoList</h2>
 <h6>
 UIKit,TableView/Cell　
