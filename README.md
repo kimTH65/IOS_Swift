@@ -56,7 +56,7 @@ SceneDelegate
 <h6>
 　UI 상태에 따른 이벤트처리를 위한 객체
 </h6>
-<br><br>
+<br>
 
 앱스토어
 <h6>
